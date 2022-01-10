@@ -351,9 +351,9 @@ Nas regras/guias de estilo usaremos das recomendações padrão tanto para o
 
 ### Primeiros passos
 
-1. Antes de mais nada, se assegure de ter um bom :pencil: editor de texto, algo
+1. Antes de mais nada, se assegure de ter um bom 📝 editor de texto, algo
    como [Code](https://code.visualstudio.com/) ou [Atom](https://atom.io/).
-2. Para executar os comandos você precisará de um :shell: UNIX Shell, que é um
+2. Para executar os comandos você precisará de um 🐚 UNIX Shell, que é um
    programa que interpreta linhas de comando (command-line interpreter) e também
    deve ter o git instalado. Se você usa um sistema operacional "UNIX-like",
    como GNU/Linux ou MacOS, você já tem um _shell_ (terminal) instalado (e
@@ -361,19 +361,19 @@ Nas regras/guias de estilo usaremos das recomendações padrão tanto para o
    versão completa do [Cmder](https://cmder.net/) que já inclui o Git bash.
    Se tiver o Windows 10 ou superior,
    pode usar o [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
-3. Faça seu próprio :fork\*and_knife:
+3. Faça seu próprio 🍴
    [fork](https://help.github.com/articles/fork-a-repo/) do repositório.
-4. :arrow*down: [Clone](https://help.github.com/articles/cloning-a-repository/)
+4. ⬇️ [Clone](https://help.github.com/articles/cloning-a-repository/)
    o \_fork* para seu computador (cópia local).
 5. 📦 Instale as dependências do projeto rodando o comando `npm install`. Mas
    antes disso tenha certeza de ter instalado o [Node.js](https://nodejs.org/)
    (que inclui o [npm](https://docs.npmjs.com/)).
-6. Se tudo foi bem, você deve conseguir executar os :traffic_light: testes
+6. Se tudo foi bem, você deve conseguir executar os 🚥 testes
    unitários com o comando `npm test`.
 7. Para ver a interface do seu programa no navegador, use o comando `npm start`
    para iniciar o servidor web e entre na url `http://localhost:5000` no seu
    navegador.
-8. Let's Code! :rocket:
+8. Let's Code! 🚀
 
 Este [video](https://drive.google.com/file/d/1CM6ZfpGfJMF6A8IcXoK5cFBBq-CY8oBR/view?usp=sharing)
 da Paloma também pode te ajudar nos seus primeiros passos ;)
