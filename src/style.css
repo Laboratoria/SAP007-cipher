@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+#form1.form2{
+    background:beige; 
+    font:12px arial, verdana, helvetica, sans-serif; 
+    background:beige; 
+
+}
+div#root{
+    margin: 150px 120px;
+}
+
+textarea{ 
+    background:beige; 
+}
+
+button{
+    background:beige; 
+    
+}
+input{
+    background:beige; 
+    
+}
+div.resultado{
+    display: block;
+    background-color: #ffffff;
+    width: 420px;
+    height: 180px;
+    border: 1px solid rgba(0,0,0,.5);
+    margin-top: 10px;
+}
