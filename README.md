@@ -14,7 +14,7 @@ Durante a pandemia os casos de violência doméstica aumentaram muito. O S.O.S M
 
 # UI e UX
 O Protótipo foi todo desenhado no Figma para que ficasse mais fácil a visualização de como ficaria o resultado da aplicação. Pensei nesas cores devido ao significado delas, verde representa a esperança e o roxo geralmente é ligado a campanhas para mulheres.
-<img  src=scr/img/layouttwo.png alt="pagina1" width=80%/>
-<img  src=scr/img/layouttw.png alt="pagina2" width=80%/>
+<img  src=C:\Users\Marione\Desktop\SAP007-cipher\src\imglayouttwo.png alt="pagina1" width=80%/>
+<img  src=C:\Users\Marione\Desktop\SAP007-cipher\src\imglayouttw.png alt="pagina2" width=80%/>
 
 
