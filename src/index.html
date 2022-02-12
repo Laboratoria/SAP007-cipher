@@ -1,74 +1,81 @@
 <!DOCTYPE html>
-<html lang="pt-br" >
+<html lang="pt-br">
+
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>S.O.S Mulher</title>
-	<link rel="stylesheet" href="style.css"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>S.O.S Mulher</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 
-    <body>
-      <header>
-		<div> 
-			<h1>S.O.S Mulher</h1>
-      
-			<h2>Como funciona?</h2>
-			<p id="info">
-				Utilizando o app a mensagem será modificada (codificada) conforme padrão estipulado, e só você a pessoa que está recebendo
-				poderão entender o conteúdo dela.
-			</p>
-		</div>
+<body>
+  <header>
+    <div>
+      <h1>S.O.S Mulher</h1>
+
+      <h2>Como funciona?</h2>
+      <p id="info">
+        Utilizando o app a mensagem será modificada (codificada) conforme padrão estipulado, e só você a pessoa que está
+        recebendo
+        poderão entender o conteúdo dela.
+      </p>
+    </div>
 
     <figure>
-    <img  src="img/mulheres.png" alt="mulheres" />
+      <img src="img/mulheres.png" alt="mulheres" />
     </figure>
 
-   </header>   
-         
-    <main>   
+  </header>
+
+  <main>
     <article>
-     <h3 id="passos">PASSO-A-PASSO</h3>
-     <div id="steps">
-      <div class="steps"> Escolha uma chave (número de casas que você quer deslocar as letras do alfabeto).</div>
-      <div class="steps"> Informe sua chave para a pessoa que receberá a mensagem, assim ela poderá descodificar a mensagem.</div>
-      <div class="steps"> Mantenha a sua chave em segurança para que ninguém além de vocês consiga verificar a mensagem.</div>
+      <h3 id="passos">PASSO-A-PASSO</h3>
+      <div id="steps">
+        <div class="steps"> Escolha uma chave (número de casas que você quer deslocar as letras do alfabeto).</div>
+        <div class="steps"> Informe sua chave para a pessoa que receberá a mensagem, assim ela poderá descodificar a
+          mensagem.</div>
+        <div class="steps"> Mantenha a sua chave em segurança para que ninguém além de vocês consiga verificar a
+          mensagem.</div>
       </div>
     </article>
-       <section>
-        <div class="Chave">
-          <label for="offset">Deslocamento:</label>
-          <input type="number"  id="offset" min=" " max="26"/>
-          </div>
-       </section>
+    <section>
+      <div class="Chave">
+        <label for="offset">Deslocamento:</label>
+        <input type="number" id="offset" min=" " max="26" />
+      </div>
+    </section>
 
     <section>
-   <div class="encrypto">  
-       <strong><p id="mensagem"> Digite seu texto abaixo:</p></strong>
-    <textarea id="codificarTexto" rows="5" cols="10" > </textarea>
-    <button id="btnCodificar" >Cifrar</button>
-    <textarea id="textcode" rows="5" cols="10"> </textarea>
+      <div class="encrypto">
+        <strong>
+          <p id="mensagem"> Digite seu texto abaixo:</p>
+        </strong>
+        <textarea id="codificarTexto" rows="5" cols="10"> </textarea>
+        <button id="btnCodificar">Cifrar</button>
+        <textarea id="textcode" rows="5" cols="10"> </textarea>
       </div>
 
-      
+
       <div class="decrypto">
-      <textarea  id="decoficarTexto" placeholder="Digite sua mensagem aqui..." rows="5" cols="10"></textarea>
-      <button id="btnDecriptar">Decifrar</button>  
-      <textarea  id="textdecode" placeholder="Sua mensagem cifrada..." rows="5" cols="10"></textarea>
+        <textarea id="decoficarTexto" placeholder="Digite sua mensagem aqui..." rows="5" cols="10"></textarea>
+        <button id="btnDecriptar">Decifrar</button>
+        <textarea id="textdecode" placeholder="Sua mensagem cifrada..." rows="5" cols="10"></textarea>
       </div>
-     </section>
+    </section>
 
-    </main> 
+  </main>
 
-    <footer id="rodape">
+  <footer id="rodape">
 
-       <nav>
+    <nav>
       <a href="https://github.com/Marione-Tainara">
         <P> © Criado por Marione Pereira</P>
       </a>
 
     </nav>
-        </footer> 
+  </footer>
 
-       <script src="index.js" type="module"></script>
-  </body>
+  <script src="index.js" type="module"></script>
+</body>
+
 </html>
