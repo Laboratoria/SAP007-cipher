@@ -13,10 +13,18 @@ Este projeto foi desenvolvido como parte do objetivo de aprendizagem do Bootcamp
 Durante a pandemia os casos de violência doméstica aumentaram muito. O S.O.S Mulher tem como objetivo oferecer uma ferramenta virtual para que as mulheres vítimas de violência doméstica mandarem mensagens pedindo ajuda sem sejam descobertas.
 
 # UI e UX
- <p>O Protótipo foi todo desenhado no Figma para que ficasse mais fácil a visualização de como ficaria o resultado da aplicação.
- <img src="src/img/layoutone.png" alt="layout1" width="80%">
- O desenho foi pensado para ser o mais simples e amigável para o usuário, a paleta de cores foi escolhida devido ao seu significado, o verde significa esperança e o roxo está geralmente ligado a campanhas para mulheres e ao feminismo.</p>
-<img src="src/img/layouttwo.png" alt="layout2" width="80%">
+ <p>O Protótipo foi todo desenhado no Figma para que ficasse mais fácil a visualização de como ficaria o resultado da aplicação.</p>
 
+ <img src="src/img/layoutone.png" alt="layout1" width="80%">
+
+ <p>O desenho foi pensado para ser o mais simples e amigável para o usuário, a paleta de cores foi escolhida devido ao seu significado, o verde significa esperança e o roxo está geralmente ligado a campanhas para mulheres e ao feminismo.</p>
+ 
+<img src="src/img/layouttwo.png" alt="layout2" width="80%">
+ 
+ # Tecnologias utilizadas
+  <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Marizinha1" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e8/61/6a/e8616a622c61f65bc65b6b0baabcc9ac.jpg"> 
 
 
