@@ -13,6 +13,8 @@ Este projeto foi desenvolvido como parte do objetivo de aprendizagem do Bootcamp
 Durante a pandemia os casos de violência doméstica aumentaram muito. O S.O.S Mulher tem como objetivo oferecer uma ferramenta virtual para que as mulheres vítimas de violência doméstica mandarem mensagens pedindo ajuda sem sejam descobertas.
 
 # UI e UX
-O protótipo foi feito todo no Figma
+O protótipo foi feito todo no Figma. Pensei nesas cores devido ao significado delas, verde representa a esperança e o roxo geralmente é ligado a campanhas para mulheres.
+<img height="180em" src=img/layoutone.png/>
+<img height="180em" src=img/layouttw.png/>
 
 
